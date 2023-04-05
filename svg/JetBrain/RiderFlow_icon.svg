@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="a" x1="30.8" x2="70.7" y1="75.94" y2="117.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0.01" stop-color="#087CFA"/>
+      <stop offset="0.49" stop-color="#903ACA"/>
+      <stop offset="0.93" stop-color="#DD1265"/>
+    </linearGradient>
+    <linearGradient id="b" x1="77.2" x2="105.48" y1="66.13" y2="16.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0.59" stop-color="#087CFA"/>
+      <stop offset="0.99" stop-color="#0093FF"/>
+    </linearGradient>
+    <linearGradient id="c" x1="55.33" x2="76.3" y1="-0.0499997" y2="41.54" gradientUnits="userSpaceOnUse">
+      <stop offset="0.21" stop-color="#087CFA"/>
+      <stop offset="0.7" stop-color="#DD1265"/>
+    </linearGradient>
+    <linearGradient id="d" x1="27.75" x2="46.77" y1="5.61999" y2="70.42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#087CFA"/>
+      <stop offset="0.33" stop-color="#903ACA"/>
+      <stop offset="0.6" stop-color="#DD1265"/>
+    </linearGradient>
+    <linearGradient id="e" x1="149.23" x2="91.23" y1="30.26" y2="96.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0.21" stop-color="#087CFA"/>
+      <stop offset="0.56" stop-color="#903ACA"/>
+      <stop offset="0.84" stop-color="#DD1265"/>
+    </linearGradient>
+    <linearGradient id="f" x1="107.43" x2="70.94" y1="131.9" y2="83.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0.31" stop-color="#FDB60D"/>
+      <stop offset="1" stop-color="#DD1265"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M91.79 102.46L44.61 128L0 101.88L82 71.24L91.79 102.46Z"/>
+  <path fill="url(#b)" d="M73.09 0L47.45 76.06L21.93 61.81L0 101.88L40.95 95.34L92.91 86.17L128 78.31V30.58L73.09 0Z"/>
+  <path fill="#087CFA" d="M58 44.34L23.84 34.51L21 0L49.74 12.08L73.1 0L58 44.34Z"/>
+  <path fill="url(#c)" d="M59 42.34L49.74 12.08L73.1 0L59 42.34Z"/>
+  <path fill="url(#d)" d="M88.09 74.33L21.03 0L0 47.94L59.21 99.09L88.09 74.33Z"/>
+  <path fill="url(#e)" d="M128 78.31L89 87.31L90.49 80.88L128 30.58V78.31Z"/>
+  <path fill="url(#f)" d="M107.51 128L59.21 99.1L88.09 74.33L107.51 128Z"/>
+  <path fill="#000" d="M104 24H24V104H104V24Z"/>
+  <path fill="#fff" d="M64 89H34V94H64V89Z"/>
+  <path fill="#fff" d="M33.78 34H47.5C51.32 34 54.28 35.07 56.25 37C57.1152 37.914 57.7891 38.9917 58.2322 40.1697C58.6752 41.3477 58.8785 42.6024 58.83 43.86V44C58.9255 46.0432 58.3469 48.0611 57.1833 49.7433C56.0197 51.4255 54.3356 52.6787 52.39 53.31L59.73 64H52L45.56 54.39H40.38V64H33.78V34ZM47.07 48.54C50.29 48.54 52.13 46.82 52.13 44.29V44.21C52.13 41.38 50.13 39.92 46.95 39.92H40.38V48.54H47.07Z"/>
+  <path fill="#fff" d="M64.8 34H87.66V40H71.41V46.39H85.73V52.39H71.41V64H64.8V34Z"/>
+</svg>

@@ -8,7 +8,7 @@
     <img src='./svg/Devicon/javascript-original.svg' width=40 height=40/>
     <img src='./svg/Devicon/python-original.svg' width=40 height=40/>
     <img src='./svg/Devicon/java-original.svg' width=40 height=40/>
-<img src='./svg/JetBrain/Kotlin_icon.svg' width=40 height=40/>
+    <img src='./svg/JetBrain/Kotlin_icon.svg' width=40 height=40/>
 </p>
 
 ### Awesome Tools:
